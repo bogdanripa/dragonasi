@@ -1,0 +1,17 @@
+2015-04-30 12:31:12.238 Dragonasi[16854:1500837] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/684B26B1-8BB5-4445-911F-178AD1935CC7/Library/Cookies/Cookies.binarycookies
+2015-04-30 12:31:12.511 Dragonasi[16854:1500837] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-30 12:31:12.512 Dragonasi[16854:1500837] Multi-tasking -> Device: YES, App: YES
+2015-04-30 12:31:12.525 Dragonasi[16854:1500837] Unlimited access to network resources
+2015-04-30 12:31:12.534 Dragonasi[16854:1500837] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-30 12:31:13.048 Dragonasi[16854:1500837] [CDVTimer][splashscreen] 182.305038ms
+2015-04-30 12:31:13.048 Dragonasi[16854:1500837] [CDVTimer][TotalPluginStartup] 182.489991ms
+2015-04-30 12:31:13.387 Dragonasi[16854:1500837] Resetting plugins due to page load.
+2015-04-30 12:31:13.509 Dragonasi[16854:1500837] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/53FA1A8E-E996-4740-8FBD-9A9ACEC4A34D/Dragonasi.app/www/index.html
+2015-04-30 12:31:13.583 Dragonasi[16854:1500837] Received Event: deviceready

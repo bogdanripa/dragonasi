@@ -1,0 +1,12 @@
+<div>
+    <h1>{{playerSelection.title}}</h1>
+    <ul>
+        <li ng-repeat="player in playerSelection.players" ng-class="{ active: playerSelection.isSelected(player) }" ng-click="playerSelection.select(player)">
+            {{player}}
+        </li>
+    </ul>
+    <div class="break"></div>
+    <div>
+        <button ng-show="playerSelection.playerWasSelected()">Mai departe</button>
+    </div>
+</div>
