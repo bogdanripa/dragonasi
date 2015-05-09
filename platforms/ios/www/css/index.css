@@ -16,14 +16,15 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+
 * {
-    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+    -webkit-tap-highlight-color: rgba(0,0,0,0); 
 }
 
 body {
-    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
-    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
-    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    -webkit-touch-callout: none;                
+    -webkit-text-size-adjust: none;             
+    -webkit-user-select: none;                  
     background-color:#E4E4E4;
     background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
     background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
@@ -45,71 +46,110 @@ body {
     width:100%;
 }
 
-/* Portrait layout (default) */
-.app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
-    position:absolute;             /* position in the center of the screen */
-    left:50%;
-    top:50%;
-    height:50px;                   /* text area height */
-    width:225px;                   /* text area width */
-    text-align:center;
-    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
-    margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
-                                   /* offset horizontal: half of text area width */
-}
-
-/* Landscape layout (with min-width) */
-@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
-    .app {
-        background-position:left center;
-        padding:75px 0px 75px 170px;  /* padding-top + padding-bottom + text area = image height */
-        margin:-90px 0px 0px -198px;  /* offset vertical: half of image height */
-                                      /* offset horizontal: half of image width and text area width */
-    }
+body {
+    margin-top: 30px !important;
 }
 
 h1 {
-    font-size:24px;
-    font-weight:normal;
-    margin:0px;
-    overflow:visible;
-    padding:0px;
-    text-align:center;
+    text-align: center;
 }
 
-.event {
-    border-radius:4px;
-    -webkit-border-radius:4px;
-    color:#FFFFFF;
-    font-size:12px;
-    margin:0px 30px;
-    padding:2px 0px;
+ul {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    justify-content: center;
+    -webkit-justify-content: center;
+
+    width: 330px;
+    margin: auto;
+    padding: 0;
 }
 
-.event.listening {
-    background-color:#333333;
-    display:block;
+ul li {
+    list-style: none;
+    border: 3px solid blue;
+    border-radius: 5px;
+    width: 70px;
+    height: 70px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
 }
 
-.event.received {
-    background-color:#4B946A;
-    display:none;
+li a {
+    text-decoration: none;
 }
 
-@keyframes fade {
-    from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+li.active {
+    background-color: green !important;
+    color: white;
 }
- 
-@-webkit-keyframes fade {
-    from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+
+li.connected {
+    background-color: yellow;
 }
- 
-.blink {
-    animation:fade 3000ms infinite;
-    -webkit-animation:fade 3000ms infinite;
+
+.next {
+    text-align: center;
+}
+
+.next button{
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-size: 35px;    
+    border: 3px solid blue;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+.restart {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.restart button {
+  font-size: 18px;
+}
+
+.break {
+    clear: both;
+}
+
+.growAndFadeOut {
+  -webkit-transition:0.5s linear all;
+  -moz-transition:0.5s linear all;
+  -o-transition:0.5s linear all;
+  transition:0.5s linear all;
+
+  opacity: 0 !important;
+  font-size: 1000px;
+  visibility: hidden;
+}
+
+.ok, .not-ok {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0.5;
+}
+
+.ok {
+    color: green;
+}
+
+.not-ok {
+    color: red;
+}
+
+.hidden {
+    display: none;
 }

@@ -17,7 +17,7 @@
  * under the License.
  */
 
-/** {
+* {
     -webkit-tap-highlight-color: rgba(0,0,0,0); 
 }
 
@@ -45,7 +45,29 @@ body {
     text-transform:uppercase;
     width:100%;
 }
-*/
+
+body {
+    margin-top: 30px !important;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+
+    flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    justify-content: center;
+    -webkit-justify-content: center;
+
+    width: 330px;
+    margin: auto;
+    padding: 0;
+}
 
 ul li {
     list-style: none;
@@ -55,16 +77,79 @@ ul li {
     height: 70px;
     padding: 10px;
     margin: 20px;
-    float: left;
     text-align: center;
     font-size: 30px;
 }
 
+li a {
+    text-decoration: none;
+}
+
 li.active {
-    background-color: green;
+    background-color: green !important;
     color: white;
 }
+
+li.connected {
+    background-color: yellow;
+}
+
+.next {
+    text-align: center;
+}
+
+.next button{
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    font-size: 35px;    
+    border: 3px solid blue;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+.restart {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.restart button {
+  font-size: 18px;
+}
+
 .break {
     clear: both;
 }
 
+.growAndFadeOut {
+  -webkit-transition:0.5s linear all;
+  -moz-transition:0.5s linear all;
+  -o-transition:0.5s linear all;
+  transition:0.5s linear all;
+
+  opacity: 0 !important;
+  font-size: 1000px;
+  visibility: hidden;
+}
+
+.ok, .not-ok {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0.5;
+}
+
+.ok {
+    color: green;
+}
+
+.not-ok {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}

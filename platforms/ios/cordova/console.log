@@ -15,3 +15,1056 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-04-30 12:31:13.387 Dragonasi[16854:1500837] Resetting plugins due to page load.
 2015-04-30 12:31:13.509 Dragonasi[16854:1500837] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/53FA1A8E-E996-4740-8FBD-9A9ACEC4A34D/Dragonasi.app/www/index.html
 2015-04-30 12:31:13.583 Dragonasi[16854:1500837] Received Event: deviceready
+2015-05-06 18:41:41.766 Dragonasi[2354:417172] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/D89BDA32-A95D-498A-8847-50B2A2790C41/Library/Cookies/Cookies.binarycookies
+2015-05-06 18:41:42.079 Dragonasi[2354:417172] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 18:41:42.080 Dragonasi[2354:417172] Multi-tasking -> Device: YES, App: YES
+2015-05-06 18:41:42.094 Dragonasi[2354:417172] Unlimited access to network resources
+2015-05-06 18:41:42.104 Dragonasi[2354:417172] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 18:41:42.645 Dragonasi[2354:417172] [CDVTimer][splashscreen] 176.626980ms
+2015-05-06 18:41:42.646 Dragonasi[2354:417172] [CDVTimer][TotalPluginStartup] 176.814973ms
+2015-05-06 18:41:42.793 Dragonasi[2354:417172] Resetting plugins due to page load.
+2015-05-06 18:41:43.029 Dragonasi[2354:417172] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/65A366D1-7654-4C0A-BC69-BDC5C969487D/Dragonasi.app/www/index.html
+2015-05-06 18:41:43.374 Dragonasi[2354:417172] Sent: {"command": "connect"}
+2015-05-06 18:41:43.518 Dragonasi[2354:417172] Received: [object MessageEvent]
+2015-05-06 18:41:43.662 Dragonasi[2354:417172] Received: [object MessageEvent]
+2015-05-06 18:41:54.185 Dragonasi[2425:417594] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/94AF2677-4B24-46C8-B367-45362F8F286A/Library/Cookies/Cookies.binarycookies
+2015-05-06 18:41:54.291 Dragonasi[2425:417594] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 18:41:54.291 Dragonasi[2425:417594] Multi-tasking -> Device: YES, App: YES
+2015-05-06 18:41:54.295 Dragonasi[2425:417594] Unlimited access to network resources
+2015-05-06 18:41:54.298 Dragonasi[2425:417594] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 18:41:54.414 Dragonasi[2425:417594] [CDVTimer][splashscreen] 17.735004ms
+2015-05-06 18:41:54.415 Dragonasi[2425:417594] [CDVTimer][TotalPluginStartup] 18.023014ms
+2015-05-06 18:41:54.484 Dragonasi[2425:417594] Resetting plugins due to page load.
+2015-05-06 18:41:54.591 Dragonasi[2425:417594] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/C33983E2-391B-4171-8753-1BDE0532EBA4/Dragonasi.app/www/index.html
+2015-05-06 18:41:54.957 Dragonasi[2425:417594] Sent: {"command": "connect"}
+2015-05-06 18:41:55.106 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:41:55.254 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:41:57.578 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 18:41:57.728 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:10.227 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 4}
+2015-05-06 18:42:10.472 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:10.623 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:12.161 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 18:42:12.415 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:12.567 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:14.787 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 6}
+2015-05-06 18:42:14.960 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:15.108 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:17.230 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:17.381 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:20.818 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:20.968 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:22.312 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:22.460 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:24.186 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:24.335 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:38.187 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 18:42:38.370 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:38.522 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:40.735 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 6}
+2015-05-06 18:42:40.988 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:41.134 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:42.507 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 18:42:42.728 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:42:42.882 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:43:13.549 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 4}
+2015-05-06 18:43:13.699 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:43:13.850 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:43:16.105 Dragonasi[2425:417594] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 18:43:16.254 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:43:16.403 Dragonasi[2425:417594] Received: [object MessageEvent]
+2015-05-06 18:43:30.164 Dragonasi[2497:419236] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/97E640D5-96F1-496B-915D-FB0E3C960557/Library/Cookies/Cookies.binarycookies
+2015-05-06 18:43:30.269 Dragonasi[2497:419236] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 18:43:30.269 Dragonasi[2497:419236] Multi-tasking -> Device: YES, App: YES
+2015-05-06 18:43:30.272 Dragonasi[2497:419236] Unlimited access to network resources
+2015-05-06 18:43:30.276 Dragonasi[2497:419236] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 18:43:30.413 Dragonasi[2497:419236] [CDVTimer][splashscreen] 25.936007ms
+2015-05-06 18:43:30.413 Dragonasi[2497:419236] [CDVTimer][TotalPluginStartup] 26.149988ms
+2015-05-06 18:43:30.495 Dragonasi[2497:419236] Resetting plugins due to page load.
+2015-05-06 18:43:30.596 Dragonasi[2497:419236] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/09A81FFD-6F86-44B7-BCEC-FEBA7AF57074/Dragonasi.app/www/index.html
+2015-05-06 18:43:30.892 Dragonasi[2497:419236] Sent: {"command": "connect"}
+2015-05-06 18:43:31.043 Dragonasi[2497:419236] Received: [object MessageEvent]
+2015-05-06 18:43:31.193 Dragonasi[2497:419236] Received: [object MessageEvent]
+2015-05-06 18:43:33.319 Dragonasi[2497:419236] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 18:43:33.468 Dragonasi[2497:419236] Received: [object MessageEvent]
+2015-05-06 18:43:35.284 Dragonasi[2497:419236] Sent: {"command": "setGroup", "group": 4}
+2015-05-06 18:43:35.431 Dragonasi[2497:419236] Received: [object MessageEvent]
+2015-05-06 18:43:35.593 Dragonasi[2497:419236] Received: [object MessageEvent]
+2015-05-06 18:44:00.505 Dragonasi[2497:419236] Received memory warning.
+2015-05-06 18:44:04.863 Dragonasi[2497:419236] Received memory warning.
+2015-05-06 18:44:31.266 Dragonasi[2497:419753] Terminating since there is no system app.
+2015-05-06 18:44:45.913 Dragonasi[2613:420852] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/7752B264-B8EB-424D-B68D-9891A273D41E/Library/Cookies/Cookies.binarycookies
+2015-05-06 18:44:45.991 Dragonasi[2613:420852] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 18:44:45.992 Dragonasi[2613:420852] Multi-tasking -> Device: YES, App: YES
+2015-05-06 18:44:45.994 Dragonasi[2613:420852] Unlimited access to network resources
+2015-05-06 18:44:45.997 Dragonasi[2613:420852] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 18:44:46.116 Dragonasi[2613:420852] [CDVTimer][splashscreen] 33.374965ms
+2015-05-06 18:44:46.116 Dragonasi[2613:420852] [CDVTimer][TotalPluginStartup] 33.568025ms
+2015-05-06 18:44:46.401 Dragonasi[2613:420852] Resetting plugins due to page load.
+2015-05-06 18:44:46.502 Dragonasi[2613:420852] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/6794F0F0-9F88-4DE8-AB77-762A0D1DB6CB/Dragonasi.app/www/index.html
+2015-05-06 18:44:46.825 Dragonasi[2613:420852] Sent: {"command": "connect"}
+2015-05-06 18:44:46.980 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:47.127 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:48.718 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 18:44:48.870 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:50.060 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 4}
+2015-05-06 18:44:50.318 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:50.466 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:51.521 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 18:44:51.751 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:51.906 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:53.761 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 6}
+2015-05-06 18:44:53.915 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:54.068 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:55.246 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 18:44:55.439 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:55.587 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:57.645 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 4}
+2015-05-06 18:44:57.799 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:57.949 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:58.763 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 18:44:58.933 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:59.082 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:59.598 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 4}
+2015-05-06 18:44:59.751 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:44:59.904 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:45:00.524 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 6}
+2015-05-06 18:45:00.676 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:45:00.824 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:54:26.643 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 18:54:26.793 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:54:26.946 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:54:27.397 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 18:54:27.555 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:54:27.700 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:55:46.996 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:56:56.569 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:00.441 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:02.582 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:02.733 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:04.345 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:04.494 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:05.514 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:05.666 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:06.576 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:06.725 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:07.224 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 18:57:07.373 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:06.389 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:06.557 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:13.909 Dragonasi[2613:420852] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 19:13:14.076 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:14.244 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:35.821 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:35.992 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:44.922 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:13:45.087 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:20.272 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:24.038 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:25.599 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:25.764 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:26.774 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:26.942 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:27.918 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:28.089 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:29.237 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:29.400 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:30.032 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:30.194 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:33.635 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:33.805 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:36.970 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:37.134 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:38.257 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:38.428 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:39.433 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:16:39.601 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:17:57.297 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:17:57.466 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:02.336 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:02.497 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:48.542 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:51.090 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:51.809 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:51.978 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:52.697 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:52.869 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:53.516 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:53.684 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:54.578 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:18:54.741 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:19:03.599 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:19:03.752 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:19:04.599 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:19:04.770 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:19:05.599 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:19:05.768 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:33.661 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:36.630 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:37.347 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:37.519 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:38.372 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:38.544 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:39.399 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:39.577 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:42.365 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:20:42.529 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:21:34.323 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:21:34.488 Dragonasi[2613:420852] Received: [object MessageEvent]
+2015-05-06 19:24:14.543 Dragonasi[2918:437282] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/F629A855-D17B-4497-84F0-116ECCC9C3CE/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:24:14.685 Dragonasi[2918:437282] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:24:14.686 Dragonasi[2918:437282] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:24:14.688 Dragonasi[2918:437282] Unlimited access to network resources
+2015-05-06 19:24:14.691 Dragonasi[2918:437282] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:24:14.825 Dragonasi[2918:437282] [CDVTimer][splashscreen] 37.812948ms
+2015-05-06 19:24:14.825 Dragonasi[2918:437282] [CDVTimer][TotalPluginStartup] 38.002968ms
+2015-05-06 19:24:14.894 Dragonasi[2918:437282] Resetting plugins due to page load.
+2015-05-06 19:24:15.026 Dragonasi[2918:437282] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/9FA2A327-41D4-4318-BF59-3E4EB6B9FCD0/Dragonasi.app/www/index.html
+2015-05-06 19:24:15.393 Dragonasi[2918:437282] Sent: {"command": "connect"}
+2015-05-06 19:24:15.545 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:19.533 Dragonasi[2918:437282] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 19:24:19.685 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:22.491 Dragonasi[2918:437282] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:24:22.639 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:22.789 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:25.093 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:25.241 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:26.628 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:26.777 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:28.775 Dragonasi[2918:437282] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 19:24:28.996 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:29.141 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:29.971 Dragonasi[2918:437282] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 19:24:30.122 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:30.273 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:30.828 Dragonasi[2918:437282] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:24:30.976 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:31.129 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:32.893 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:24:33.043 Dragonasi[2918:437282] Received: [object MessageEvent]
+2015-05-06 19:26:50.445 Dragonasi[2918:437282] Disconnected - status 3
+2015-05-06 19:29:41.982 Dragonasi[3016:441046] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/CEF58F9A-747F-4DB9-A1B5-57A4A7C8EB2F/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:29:42.063 Dragonasi[3016:441046] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:29:42.064 Dragonasi[3016:441046] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:29:42.065 Dragonasi[3016:441046] Unlimited access to network resources
+2015-05-06 19:29:42.068 Dragonasi[3016:441046] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:29:42.175 Dragonasi[3016:441046] [CDVTimer][splashscreen] 25.703013ms
+2015-05-06 19:29:42.175 Dragonasi[3016:441046] [CDVTimer][TotalPluginStartup] 25.885046ms
+2015-05-06 19:29:42.239 Dragonasi[3016:441046] Resetting plugins due to page load.
+2015-05-06 19:29:42.366 Dragonasi[3016:441046] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/E22E9312-264C-415F-95BA-6B594DD69E3B/Dragonasi.app/www/index.html
+2015-05-06 19:29:42.723 Dragonasi[3016:441046] Sent: {"command": "connect"}
+2015-05-06 19:29:49.983 Dragonasi[3078:441334] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/FFBF14C5-6DCA-4E13-9F9D-472C14A4E2EE/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:29:50.077 Dragonasi[3078:441334] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:29:50.077 Dragonasi[3078:441334] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:29:50.081 Dragonasi[3078:441334] Unlimited access to network resources
+2015-05-06 19:29:50.084 Dragonasi[3078:441334] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:29:50.208 Dragonasi[3078:441334] [CDVTimer][splashscreen] 20.437002ms
+2015-05-06 19:29:50.209 Dragonasi[3078:441334] [CDVTimer][TotalPluginStartup] 20.640016ms
+2015-05-06 19:29:50.277 Dragonasi[3078:441334] Resetting plugins due to page load.
+2015-05-06 19:29:50.408 Dragonasi[3078:441334] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/6657633A-A118-43C5-97BC-9EE06E9308EE/Dragonasi.app/www/index.html
+2015-05-06 19:29:50.744 Dragonasi[3078:441334] Sent: {"command": "connect"}
+2015-05-06 19:29:51.796 Dragonasi[3078:441334] Received: [object MessageEvent]
+2015-05-06 19:29:54.413 Dragonasi[3078:441334] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 19:29:54.611 Dragonasi[3078:441334] Received: [object MessageEvent]
+2015-05-06 19:29:55.960 Dragonasi[3078:441334] Sent: {"command": "play"}
+2015-05-06 19:29:57.154 Dragonasi[3078:441334] Sent: {"command": "play"}
+2015-05-06 19:34:28.634 Dragonasi[3078:441334] Disconnected - status 3
+2015-05-06 19:41:39.197 Dragonasi[3232:448201] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/D2C97521-A7E2-4CEE-981C-8C6DAA095545/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:41:39.277 Dragonasi[3232:448201] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:41:39.278 Dragonasi[3232:448201] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:41:39.280 Dragonasi[3232:448201] Unlimited access to network resources
+2015-05-06 19:41:39.283 Dragonasi[3232:448201] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:41:39.389 Dragonasi[3232:448201] [CDVTimer][splashscreen] 15.042007ms
+2015-05-06 19:41:39.389 Dragonasi[3232:448201] [CDVTimer][TotalPluginStartup] 15.262008ms
+2015-05-06 19:41:39.434 Dragonasi[3232:448201] Resetting plugins due to page load.
+2015-05-06 19:41:39.535 Dragonasi[3232:448201] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/3476AE49-24E4-4B02-8FEE-75A155DCBE74/Dragonasi.app/www/index.html
+2015-05-06 19:41:39.897 Dragonasi[3232:448201] Sent: {"command": "connect"}
+2015-05-06 19:42:06.604 Dragonasi[3232:448201] Disconnected - status 3
+2015-05-06 19:44:05.385 Dragonasi[3312:449787] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/1E27B796-BD7A-447D-906B-2CC5FAC1E4F7/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:44:05.506 Dragonasi[3312:449787] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:44:05.507 Dragonasi[3312:449787] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:44:05.510 Dragonasi[3312:449787] Unlimited access to network resources
+2015-05-06 19:44:05.517 Dragonasi[3312:449787] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:44:05.630 Dragonasi[3312:449787] [CDVTimer][splashscreen] 17.647982ms
+2015-05-06 19:44:05.630 Dragonasi[3312:449787] [CDVTimer][TotalPluginStartup] 17.874002ms
+2015-05-06 19:44:05.699 Dragonasi[3312:449787] Resetting plugins due to page load.
+2015-05-06 19:44:05.825 Dragonasi[3312:449787] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/05434E91-337C-4319-ADE0-4DDA4FB700C3/Dragonasi.app/www/index.html
+2015-05-06 19:44:06.222 Dragonasi[3312:449787] Sent: {"command": "connect"}
+2015-05-06 19:44:12.219 Dragonasi[3312:449787] Received: [object MessageEvent]
+2015-05-06 19:44:13.337 Dragonasi[3312:449787] Received: [object MessageEvent]
+2015-05-06 19:44:13.505 Dragonasi[3312:449787] Received: [object MessageEvent]
+2015-05-06 19:44:16.794 Dragonasi[3312:449787] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 19:44:16.955 Dragonasi[3312:449787] Received: [object MessageEvent]
+2015-05-06 19:44:21.745 Dragonasi[3312:449787] Sent: {"command": "ready"}
+2015-05-06 19:44:55.953 Dragonasi[3312:449787] Disconnected - status 3
+2015-05-06 19:45:34.879 Dragonasi[3383:451443] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/4233847C-0005-4A5C-A3C6-2807EEA7B5F8/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:45:35.005 Dragonasi[3383:451443] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:45:35.006 Dragonasi[3383:451443] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:45:35.009 Dragonasi[3383:451443] Unlimited access to network resources
+2015-05-06 19:45:35.012 Dragonasi[3383:451443] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:45:35.134 Dragonasi[3383:451443] [CDVTimer][splashscreen] 20.307958ms
+2015-05-06 19:45:35.135 Dragonasi[3383:451443] [CDVTimer][TotalPluginStartup] 20.780981ms
+2015-05-06 19:45:35.193 Dragonasi[3383:451443] Resetting plugins due to page load.
+2015-05-06 19:45:35.333 Dragonasi[3383:451443] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/7485395F-90D9-4DEF-BB68-DC24504B8D79/Dragonasi.app/www/index.html
+2015-05-06 19:45:35.719 Dragonasi[3383:451443] Sent: {"command": "connect"}
+2015-05-06 19:45:37.610 Dragonasi[3383:451443] Received: [object MessageEvent]
+2015-05-06 19:45:40.113 Dragonasi[3383:451443] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:45:40.383 Dragonasi[3383:451443] Received: [object MessageEvent]
+2015-05-06 19:45:42.300 Dragonasi[3383:451443] Sent: {"command": "ready"}
+2015-05-06 19:45:44.182 Dragonasi[3383:451443] Received: [object MessageEvent]
+2015-05-06 19:47:06.336 Dragonasi[3456:452922] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/C4A66F8A-AE3B-48EA-B34D-C43B349EF93C/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:47:06.437 Dragonasi[3456:452922] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:47:06.441 Dragonasi[3456:452922] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:47:06.448 Dragonasi[3456:452922] Unlimited access to network resources
+2015-05-06 19:47:06.454 Dragonasi[3456:452922] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:47:06.634 Dragonasi[3456:452922] [CDVTimer][splashscreen] 50.800979ms
+2015-05-06 19:47:06.635 Dragonasi[3456:452922] [CDVTimer][TotalPluginStartup] 51.293969ms
+2015-05-06 19:47:06.719 Dragonasi[3456:452922] Resetting plugins due to page load.
+2015-05-06 19:47:06.899 Dragonasi[3456:452922] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/35B635EE-BE8F-41D7-A9CF-082A72ACEBC7/Dragonasi.app/www/index.html
+2015-05-06 19:47:07.210 Dragonasi[3456:452922] Sent: {"command": "connect"}
+2015-05-06 19:47:08.963 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:47:14.634 Dragonasi[3456:452922] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:47:14.787 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:47:15.891 Dragonasi[3456:452922] Sent: {"command": "ready"}
+2015-05-06 19:47:17.454 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:47:26.705 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:47:31.279 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:47:44.718 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:12.144 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:18.228 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:29.953 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:30.098 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:32.904 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:35.053 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:52.022 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:55.895 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:49:56.584 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:50:39.260 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:50:49.764 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:51:11.165 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:51:14.281 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:51:15.021 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:51:29.502 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:51:38.236 Dragonasi[3456:452922] Received: [object MessageEvent]
+2015-05-06 19:51:40.271 Dragonasi[3557:457703] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/FDFD1A4F-C51E-4BEF-AC77-1949488BC70B/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:51:40.356 Dragonasi[3557:457703] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:51:40.356 Dragonasi[3557:457703] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:51:40.358 Dragonasi[3557:457703] Unlimited access to network resources
+2015-05-06 19:51:40.361 Dragonasi[3557:457703] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:51:40.456 Dragonasi[3557:457703] [CDVTimer][splashscreen] 22.836983ms
+2015-05-06 19:51:40.456 Dragonasi[3557:457703] [CDVTimer][TotalPluginStartup] 23.014963ms
+2015-05-06 19:51:40.514 Dragonasi[3557:457703] Resetting plugins due to page load.
+2015-05-06 19:51:40.612 Dragonasi[3557:457703] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/FFEDBBE6-7CB2-46EE-B97C-570FB050ECB7/Dragonasi.app/www/index.html
+2015-05-06 19:51:40.908 Dragonasi[3557:457703] Sent: {"command": "connect"}
+2015-05-06 19:51:41.055 Dragonasi[3557:457703] Received: [object MessageEvent]
+2015-05-06 19:51:43.051 Dragonasi[3557:457703] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:51:43.288 Dragonasi[3557:457703] Received: [object MessageEvent]
+2015-05-06 19:51:44.715 Dragonasi[3557:457703] Sent: {"command": "ready"}
+2015-05-06 19:51:51.003 Dragonasi[3557:457703] Received: [object MessageEvent]
+2015-05-06 19:55:01.573 Dragonasi[3557:457703] Received: [object MessageEvent]
+2015-05-06 19:55:10.251 Dragonasi[3667:460385] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/92414EFD-9F29-4944-9626-E70D93B836CC/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:55:10.366 Dragonasi[3667:460385] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:55:10.366 Dragonasi[3667:460385] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:55:10.369 Dragonasi[3667:460385] Unlimited access to network resources
+2015-05-06 19:55:10.372 Dragonasi[3667:460385] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:55:10.486 Dragonasi[3667:460385] [CDVTimer][splashscreen] 18.523037ms
+2015-05-06 19:55:10.487 Dragonasi[3667:460385] [CDVTimer][TotalPluginStartup] 18.698990ms
+2015-05-06 19:55:10.549 Dragonasi[3667:460385] Resetting plugins due to page load.
+2015-05-06 19:55:10.715 Dragonasi[3667:460385] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/ACD44E39-680A-4A36-9785-E8FC7F7EDC1E/Dragonasi.app/www/index.html
+2015-05-06 19:55:10.993 Dragonasi[3667:460385] Sent: {"command": "connect"}
+2015-05-06 19:55:11.147 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:55:13.074 Dragonasi[3667:460385] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:55:13.231 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:55:20.010 Dragonasi[3667:460385] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 19:55:20.162 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:55:20.309 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:55:21.215 Dragonasi[3667:460385] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:55:21.367 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:55:21.522 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:55:24.323 Dragonasi[3667:460385] Sent: {"command": "ready"}
+2015-05-06 19:55:24.573 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:55:49.173 Dragonasi[3667:460385] Received: [object MessageEvent]
+2015-05-06 19:56:02.989 Dragonasi[3739:461609] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/D2615479-CAD1-4C15-9532-24E1327F27A5/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:56:03.058 Dragonasi[3739:461609] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:56:03.058 Dragonasi[3739:461609] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:56:03.060 Dragonasi[3739:461609] Unlimited access to network resources
+2015-05-06 19:56:03.063 Dragonasi[3739:461609] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:56:03.165 Dragonasi[3739:461609] [CDVTimer][splashscreen] 25.115013ms
+2015-05-06 19:56:03.165 Dragonasi[3739:461609] [CDVTimer][TotalPluginStartup] 25.299013ms
+2015-05-06 19:56:03.221 Dragonasi[3739:461609] Resetting plugins due to page load.
+2015-05-06 19:56:03.332 Dragonasi[3739:461609] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/EC726117-E9F6-4451-973C-23CEC204D764/Dragonasi.app/www/index.html
+2015-05-06 19:56:03.635 Dragonasi[3739:461609] Sent: {"command": "connect"}
+2015-05-06 19:56:03.784 Dragonasi[3739:461609] Received: [object MessageEvent]
+2015-05-06 19:56:04.731 Dragonasi[3739:461609] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:56:04.921 Dragonasi[3739:461609] Received: [object MessageEvent]
+2015-05-06 19:56:12.224 Dragonasi[3739:461609] Sent: {"command": "ready"}
+2015-05-06 19:56:12.367 Dragonasi[3739:461609] Received: [object MessageEvent]
+2015-05-06 19:57:12.871 Dragonasi[3739:461609] Received: [object MessageEvent]
+2015-05-06 19:57:20.646 Dragonasi[3812:463240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/BEC4EEB5-5B2D-44AA-90F7-4E9BB04C777E/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:57:20.757 Dragonasi[3812:463240] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:57:20.757 Dragonasi[3812:463240] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:57:20.759 Dragonasi[3812:463240] Unlimited access to network resources
+2015-05-06 19:57:20.762 Dragonasi[3812:463240] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:57:20.863 Dragonasi[3812:463240] [CDVTimer][splashscreen] 22.420049ms
+2015-05-06 19:57:20.864 Dragonasi[3812:463240] [CDVTimer][TotalPluginStartup] 22.594035ms
+2015-05-06 19:57:20.916 Dragonasi[3812:463240] Resetting plugins due to page load.
+2015-05-06 19:57:21.020 Dragonasi[3812:463240] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/6BBEEF41-BABD-4157-B1CF-0D9ED4469803/Dragonasi.app/www/index.html
+2015-05-06 19:57:21.324 Dragonasi[3812:463240] Sent: {"command": "connect"}
+2015-05-06 19:57:25.425 Dragonasi[3812:463240] Received: [object MessageEvent]
+2015-05-06 19:57:28.688 Dragonasi[3812:463240] Received: [object MessageEvent]
+2015-05-06 19:57:28.836 Dragonasi[3812:463240] Received: [object MessageEvent]
+2015-05-06 19:57:37.625 Dragonasi[3812:463240] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 19:57:37.799 Dragonasi[3812:463240] Received: [object MessageEvent]
+2015-05-06 19:57:39.003 Dragonasi[3812:463240] Sent: {"command": "ready"}
+2015-05-06 19:57:39.253 Dragonasi[3812:463240] Received: [object MessageEvent]
+2015-05-06 19:58:48.125 Dragonasi[3812:463240] Received: [object MessageEvent]
+2015-05-06 19:58:58.197 Dragonasi[3887:464772] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/A8217ABE-9B2D-4CF4-95D8-75DC52DA3630/Library/Cookies/Cookies.binarycookies
+2015-05-06 19:58:58.277 Dragonasi[3887:464772] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 19:58:58.277 Dragonasi[3887:464772] Multi-tasking -> Device: YES, App: YES
+2015-05-06 19:58:58.279 Dragonasi[3887:464772] Unlimited access to network resources
+2015-05-06 19:58:58.282 Dragonasi[3887:464772] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 19:58:58.385 Dragonasi[3887:464772] [CDVTimer][splashscreen] 24.266005ms
+2015-05-06 19:58:58.385 Dragonasi[3887:464772] [CDVTimer][TotalPluginStartup] 24.466038ms
+2015-05-06 19:58:58.443 Dragonasi[3887:464772] Resetting plugins due to page load.
+2015-05-06 19:58:58.569 Dragonasi[3887:464772] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/8A03CEE9-A836-44EA-995E-5AD17FA83BCD/Dragonasi.app/www/index.html
+2015-05-06 19:58:58.855 Dragonasi[3887:464772] Sent: {"command": "connect"}
+2015-05-06 19:58:59.004 Dragonasi[3887:464772] Received: [object MessageEvent]
+2015-05-06 19:59:01.143 Dragonasi[3887:464772] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 19:59:01.290 Dragonasi[3887:464772] Received: [object MessageEvent]
+2015-05-06 19:59:05.585 Dragonasi[3887:464772] Sent: {"command": "ready"}
+2015-05-06 19:59:05.759 Dragonasi[3887:464772] Received: [object MessageEvent]
+2015-05-06 19:59:22.696 Dragonasi[3887:464772] Received: [object MessageEvent]
+2015-05-06 19:59:25.526 Dragonasi[3887:464772] Received: [object MessageEvent]
+2015-05-06 19:59:26.236 Dragonasi[3887:464772] Received: [object MessageEvent]
+2015-05-06 20:01:01.948 Dragonasi[3970:466761] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/E2B54754-4268-4AA8-85F2-4A691F3ABC05/Library/Cookies/Cookies.binarycookies
+2015-05-06 20:01:02.070 Dragonasi[3970:466761] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 20:01:02.070 Dragonasi[3970:466761] Multi-tasking -> Device: YES, App: YES
+2015-05-06 20:01:02.074 Dragonasi[3970:466761] Unlimited access to network resources
+2015-05-06 20:01:02.077 Dragonasi[3970:466761] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 20:01:02.235 Dragonasi[3970:466761] [CDVTimer][splashscreen] 21.616995ms
+2015-05-06 20:01:02.235 Dragonasi[3970:466761] [CDVTimer][TotalPluginStartup] 21.816015ms
+2015-05-06 20:01:02.289 Dragonasi[3970:466761] Resetting plugins due to page load.
+2015-05-06 20:01:02.419 Dragonasi[3970:466761] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/EB73602C-C5FB-407A-831B-2719E340BD5A/Dragonasi.app/www/index.html
+2015-05-06 20:01:02.778 Dragonasi[3970:466761] Sent: {"command": "connect"}
+2015-05-06 20:12:31.171 Dragonasi[3970:466761] Received: [object MessageEvent]
+2015-05-06 20:12:35.133 Dragonasi[3970:466761] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 20:12:35.439 Dragonasi[3970:466761] Received: [object MessageEvent]
+2015-05-06 20:12:36.513 Dragonasi[3970:466761] Sent: {"command": "ready"}
+2015-05-06 20:12:43.435 Dragonasi[3970:466761] Received: [object MessageEvent]
+2015-05-06 20:12:48.068 Dragonasi[3970:466761] Received: [object MessageEvent]
+2015-05-06 20:12:53.131 Dragonasi[3970:466761] Received: [object MessageEvent]
+2015-05-06 20:12:55.303 Dragonasi[3970:466761] Received: [object MessageEvent]
+2015-05-06 20:13:19.453 Dragonasi[4111:472131] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/03249176-EFC1-4570-B8A0-BDED3B033427/Library/Cookies/Cookies.binarycookies
+2015-05-06 20:13:19.671 Dragonasi[4111:472131] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 20:13:19.672 Dragonasi[4111:472131] Multi-tasking -> Device: YES, App: YES
+2015-05-06 20:13:19.674 Dragonasi[4111:472131] Unlimited access to network resources
+2015-05-06 20:13:19.677 Dragonasi[4111:472131] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 20:13:19.793 Dragonasi[4111:472131] [CDVTimer][splashscreen] 26.436031ms
+2015-05-06 20:13:19.793 Dragonasi[4111:472131] [CDVTimer][TotalPluginStartup] 26.630998ms
+2015-05-06 20:13:19.861 Dragonasi[4111:472131] Resetting plugins due to page load.
+2015-05-06 20:13:20.056 Dragonasi[4111:472131] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/B3A47DB3-1750-4B56-8B75-A2F0914AB4A0/Dragonasi.app/www/index.html
+2015-05-06 20:13:20.354 Dragonasi[4111:472131] Sent: {"command": "connect"}
+2015-05-06 20:13:30.615 Dragonasi[4111:472131] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 20:13:30.837 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:13:42.015 Dragonasi[4111:472131] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 20:13:42.164 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:13:42.314 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:13:49.955 Dragonasi[4111:472131] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 20:13:50.192 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:13:50.342 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:13:52.624 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:14:24.588 Dragonasi[4111:472131] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 20:14:24.803 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:14:24.955 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:14:28.699 Dragonasi[4111:472131] Sent: {"command": "setGroup", "group": 5}
+2015-05-06 20:14:28.899 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:14:29.052 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:14:31.050 Dragonasi[4111:472131] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 20:14:31.254 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:14:31.410 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:14:41.804 Dragonasi[4111:472131] Sent: {"command": "ready"}
+2015-05-06 20:14:41.956 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:17:22.779 Dragonasi[4111:472131] Received: [object MessageEvent]
+2015-05-06 20:17:33.569 Dragonasi[4206:476241] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/2ED9BD96-56AC-4E26-9128-D52F3C86B5ED/Library/Cookies/Cookies.binarycookies
+2015-05-06 20:17:33.664 Dragonasi[4206:476241] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 20:17:33.664 Dragonasi[4206:476241] Multi-tasking -> Device: YES, App: YES
+2015-05-06 20:17:33.667 Dragonasi[4206:476241] Unlimited access to network resources
+2015-05-06 20:17:33.670 Dragonasi[4206:476241] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 20:17:33.795 Dragonasi[4206:476241] [CDVTimer][splashscreen] 21.377981ms
+2015-05-06 20:17:33.795 Dragonasi[4206:476241] [CDVTimer][TotalPluginStartup] 21.578014ms
+2015-05-06 20:17:33.867 Dragonasi[4206:476241] Resetting plugins due to page load.
+2015-05-06 20:17:34.054 Dragonasi[4206:476241] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/0F4412E1-3C0E-42A7-AC07-DB465E36EA5E/Dragonasi.app/www/index.html
+2015-05-06 20:17:34.353 Dragonasi[4206:476241] Sent: {"command": "connect"}
+2015-05-06 20:18:10.758 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:18:24.062 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:18:24.213 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:19:16.056 Dragonasi[4206:476241] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 20:19:16.211 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:19:28.318 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:19:28.468 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:19:30.168 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:19:30.325 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:19:56.564 Dragonasi[4206:476241] Sent: {"command": "ready"}
+2015-05-06 20:19:56.788 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:20:02.806 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:20:05.181 Dragonasi[4206:476241] Received: [object MessageEvent]
+2015-05-06 20:20:13.102 Dragonasi[4284:478683] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/061E35F1-E507-4122-BDC5-70DC58708CF0/Library/Cookies/Cookies.binarycookies
+2015-05-06 20:20:13.189 Dragonasi[4284:478683] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 20:20:13.189 Dragonasi[4284:478683] Multi-tasking -> Device: YES, App: YES
+2015-05-06 20:20:13.191 Dragonasi[4284:478683] Unlimited access to network resources
+2015-05-06 20:20:13.194 Dragonasi[4284:478683] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 20:20:13.318 Dragonasi[4284:478683] [CDVTimer][splashscreen] 15.718043ms
+2015-05-06 20:20:13.318 Dragonasi[4284:478683] [CDVTimer][TotalPluginStartup] 15.905976ms
+2015-05-06 20:20:13.369 Dragonasi[4284:478683] Resetting plugins due to page load.
+2015-05-06 20:20:13.510 Dragonasi[4284:478683] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/2C60D795-3021-4613-AA82-3F440A4CB502/Dragonasi.app/www/index.html
+2015-05-06 20:20:13.872 Dragonasi[4284:478683] Sent: {"command": "connect"}
+2015-05-06 20:20:14.024 Dragonasi[4284:478683] Received: [object MessageEvent]
+2015-05-06 20:20:17.125 Dragonasi[4284:478683] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 20:20:17.274 Dragonasi[4284:478683] Received: [object MessageEvent]
+2015-05-06 20:21:24.494 Dragonasi[4284:478683] Sent: {"command": "setGroup", "group": 3}
+2015-05-06 20:21:24.647 Dragonasi[4284:478683] Received: [object MessageEvent]
+2015-05-06 20:21:24.795 Dragonasi[4284:478683] Received: [object MessageEvent]
+2015-05-06 20:21:26.084 Dragonasi[4284:478683] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 20:21:26.286 Dragonasi[4284:478683] Received: [object MessageEvent]
+2015-05-06 20:21:26.436 Dragonasi[4284:478683] Received: [object MessageEvent]
+2015-05-06 20:21:36.305 Dragonasi[4284:478683] Sent: {"command": "ready"}
+2015-05-06 20:21:36.523 Dragonasi[4284:478683] Received: [object MessageEvent]
+2015-05-06 20:21:51.064 Dragonasi[4284:478683] Disconnected - status 3
+2015-05-06 21:47:32.142 Dragonasi[4913:530500] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/4F25915D-407E-4E74-8BAB-3982BCFA61B9/Library/Cookies/Cookies.binarycookies
+2015-05-06 21:47:32.277 Dragonasi[4913:530500] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 21:47:32.278 Dragonasi[4913:530500] Multi-tasking -> Device: YES, App: YES
+2015-05-06 21:47:32.280 Dragonasi[4913:530500] Unlimited access to network resources
+2015-05-06 21:47:32.284 Dragonasi[4913:530500] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 21:47:32.399 Dragonasi[4913:530500] [CDVTimer][splashscreen] 32.386005ms
+2015-05-06 21:47:32.399 Dragonasi[4913:530500] [CDVTimer][TotalPluginStartup] 32.566965ms
+2015-05-06 21:47:32.464 Dragonasi[4913:530500] Resetting plugins due to page load.
+2015-05-06 21:47:32.592 Dragonasi[4913:530500] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/45A14D08-893F-44EF-AA72-AA879E4EA8D9/Dragonasi.app/www/index.html
+2015-05-06 21:47:32.949 Dragonasi[4913:530500] Sent: {"command": "connect"}
+2015-05-06 21:47:36.538 Dragonasi[4913:530500] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 21:47:36.692 Dragonasi[4913:530500] Received: [object MessageEvent]
+2015-05-06 21:47:38.835 Dragonasi[4913:530500] Received: [object MessageEvent]
+2015-05-06 21:47:40.686 Dragonasi[4913:530500] Sent: {"command": "ready"}
+2015-05-06 21:47:40.884 Dragonasi[4913:530500] Received: [object MessageEvent]
+2015-05-06 21:47:41.914 Dragonasi[4913:530500] Received: [object MessageEvent]
+2015-05-06 21:47:46.417 Dragonasi[4913:530500] Sent: {"command": "answer", "answer": 4}
+2015-05-06 21:47:48.686 Dragonasi[4913:530500] Received: [object MessageEvent]
+2015-05-06 21:47:57.680 Dragonasi[4913:530500] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:47:57.681 Dragonasi[4913:530500] Sent: {"command": "answer", "answer": 12}
+2015-05-06 21:47:59.833 Dragonasi[4913:530500] Received: [object MessageEvent]
+2015-05-06 21:48:31.525 Dragonasi[4985:531533] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/B4642F59-89C1-4C45-99AC-80DF39A72084/Library/Cookies/Cookies.binarycookies
+2015-05-06 21:48:31.666 Dragonasi[4985:531533] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 21:48:31.667 Dragonasi[4985:531533] Multi-tasking -> Device: YES, App: YES
+2015-05-06 21:48:31.671 Dragonasi[4985:531533] Unlimited access to network resources
+2015-05-06 21:48:31.675 Dragonasi[4985:531533] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 21:48:31.805 Dragonasi[4985:531533] [CDVTimer][splashscreen] 19.336998ms
+2015-05-06 21:48:31.806 Dragonasi[4985:531533] [CDVTimer][TotalPluginStartup] 19.620001ms
+2015-05-06 21:48:31.875 Dragonasi[4985:531533] Resetting plugins due to page load.
+2015-05-06 21:48:31.987 Dragonasi[4985:531533] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/99F2BBA3-B7CA-42E7-81F3-0E385654D8BF/Dragonasi.app/www/index.html
+2015-05-06 21:48:32.346 Dragonasi[4985:531533] Sent: {"command": "connect"}
+2015-05-06 21:48:32.497 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:34.825 Dragonasi[4985:531533] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 21:48:35.426 Dragonasi[4985:531533] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 21:48:35.486 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:35.634 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:35.635 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:35.635 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:36.813 Dragonasi[4985:531533] Sent: {"command": "ready"}
+2015-05-06 21:48:36.963 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:38.030 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:38.756 Dragonasi[4985:531533] Sent: {"command": "answer", "answer": 17}
+2015-05-06 21:48:46.725 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:49.554 Dragonasi[4985:531533] Sent: {"command": "answer", "answer": 12}
+2015-05-06 21:48:51.707 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:48:53.804 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:49:02.012 Dragonasi[4985:531533] Sent: {"command": "answer", "answer": 15}
+2015-05-06 21:49:07.701 Dragonasi[4985:531533] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:49:07.709 Dragonasi[4985:531533] Sent: {"command": "answer", "answer": 13}
+2015-05-06 21:49:09.853 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:49:13.015 Dragonasi[4985:531533] Sent: {"command": "answer", "answer": 9}
+2015-05-06 21:49:15.202 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:49:20.163 Dragonasi[4985:531533] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:49:20.165 Dragonasi[4985:531533] Sent: {"command": "answer", "answer": 11}
+2015-05-06 21:49:22.364 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:49:24.318 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:49:32.932 Dragonasi[4985:531533] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:49:32.934 Dragonasi[4985:531533] Sent: {"command": "answer", "answer": 11}
+2015-05-06 21:49:33.422 Dragonasi[4985:531533] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:49:33.628 Dragonasi[4985:531533] Received: [object MessageEvent]
+2015-05-06 21:50:09.262 Dragonasi[4985:531533] Disconnected - status 3
+2015-05-06 21:51:11.171 Dragonasi[5062:533606] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/40FB195E-6570-4376-A9A1-3FDD3EA46483/Library/Cookies/Cookies.binarycookies
+2015-05-06 21:51:11.267 Dragonasi[5062:533606] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 21:51:11.268 Dragonasi[5062:533606] Multi-tasking -> Device: YES, App: YES
+2015-05-06 21:51:11.270 Dragonasi[5062:533606] Unlimited access to network resources
+2015-05-06 21:51:11.274 Dragonasi[5062:533606] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 21:51:11.398 Dragonasi[5062:533606] [CDVTimer][splashscreen] 19.346952ms
+2015-05-06 21:51:11.398 Dragonasi[5062:533606] [CDVTimer][TotalPluginStartup] 19.520044ms
+2015-05-06 21:51:11.446 Dragonasi[5062:533606] Resetting plugins due to page load.
+2015-05-06 21:51:11.554 Dragonasi[5062:533606] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/D9304297-0228-48CA-8F29-885AB831EA39/Dragonasi.app/www/index.html
+2015-05-06 21:51:11.879 Dragonasi[5062:533606] Sent: {"command": "connect"}
+2015-05-06 21:51:16.379 Dragonasi[5062:533606] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 21:51:16.539 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:19.085 Dragonasi[5062:533606] Sent: {"command": "setGroup", "group": 2}
+2015-05-06 21:51:19.233 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:19.384 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:20.925 Dragonasi[5062:533606] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 21:51:21.077 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:21.229 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:34.561 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:40.701 Dragonasi[5062:533606] Sent: {"command": "ready"}
+2015-05-06 21:51:40.912 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:41.937 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:44.020 Dragonasi[5062:533606] Sent: {"command": "answer", "answer": 15}
+2015-05-06 21:51:46.255 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:48.437 Dragonasi[5062:533606] Sent: {"command": "answer", "answer": 7}
+2015-05-06 21:51:52.691 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:51:56.203 Dragonasi[5062:533606] Sent: {"command": "answer", "answer": 14}
+2015-05-06 21:51:57.040 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:52:03.338 Dragonasi[5062:533606] Received: [object MessageEvent]
+2015-05-06 21:52:03.709 Dragonasi[5062:533606] Sent: {"command": "answer", "answer": 12}
+2015-05-06 21:52:06.369 Dragonasi[5062:533606] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:52:07.829 Dragonasi[5062:533606] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:52:13.253 Dragonasi[5062:533606] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:52:13.255 Dragonasi[5062:533606] Sent: {"command": "answer", "answer": -5}
+2015-05-06 21:53:19.657 Dragonasi[5151:536175] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/71B54FBF-2BC0-405C-BF12-F0BE0152A0A6/Library/Cookies/Cookies.binarycookies
+2015-05-06 21:53:19.793 Dragonasi[5151:536175] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-06 21:53:19.794 Dragonasi[5151:536175] Multi-tasking -> Device: YES, App: YES
+2015-05-06 21:53:19.797 Dragonasi[5151:536175] Unlimited access to network resources
+2015-05-06 21:53:19.801 Dragonasi[5151:536175] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-06 21:53:19.951 Dragonasi[5151:536175] [CDVTimer][splashscreen] 19.933045ms
+2015-05-06 21:53:19.952 Dragonasi[5151:536175] [CDVTimer][TotalPluginStartup] 20.312011ms
+2015-05-06 21:53:20.086 Dragonasi[5151:536175] Resetting plugins due to page load.
+2015-05-06 21:53:20.247 Dragonasi[5151:536175] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/5335040E-3FE1-4A9C-8FD6-126D3BE6A4B8/Dragonasi.app/www/index.html
+2015-05-06 21:53:20.515 Dragonasi[5151:536175] Sent: {"command": "connect"}
+2015-05-06 21:53:20.664 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:28.315 Dragonasi[5151:536175] Sent: {"command": "setGroup", "group": 1}
+2015-05-06 21:53:28.535 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:29.699 Dragonasi[5151:536175] Sent: {"command": "ready"}
+2015-05-06 21:53:29.852 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:30.861 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:35.188 Dragonasi[5151:536175] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:53:35.190 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 5}
+2015-05-06 21:53:37.449 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:37.487 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 18}
+2015-05-06 21:53:43.377 Dragonasi[5151:536175] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:53:43.378 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 13}
+2015-05-06 21:53:45.534 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:49.066 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 9}
+2015-05-06 21:53:49.929 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:55.431 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 5}
+2015-05-06 21:53:57.617 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:53:59.187 Dragonasi[5151:536175] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:53:59.189 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 13}
+2015-05-06 21:54:02.647 Dragonasi[5151:536175] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:54:03.532 Dragonasi[5151:536175] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:54:11.757 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 7}
+2015-05-06 21:54:14.000 Dragonasi[5151:536175] Received: [object MessageEvent]
+2015-05-06 21:54:16.933 Dragonasi[5151:536175] Failed to load webpage with error: The URL can’t be shown
+2015-05-06 21:54:16.934 Dragonasi[5151:536175] Sent: {"command": "answer", "answer": 13}
+2015-05-06 21:56:34.915 Dragonasi[5151:536175] Disconnected - status 3
+2015-05-09 00:59:35.228 Dragonasi[9098:785997] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/8D247071-ECAF-4E06-9AD2-27A6C56A8B5E/Library/Cookies/Cookies.binarycookies
+2015-05-09 00:59:35.477 Dragonasi[9098:785997] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 00:59:35.478 Dragonasi[9098:785997] Multi-tasking -> Device: YES, App: YES
+2015-05-09 00:59:35.492 Dragonasi[9098:785997] Unlimited access to network resources
+2015-05-09 00:59:35.499 Dragonasi[9098:785997] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 00:59:35.947 Dragonasi[9098:785997] [CDVTimer][splashscreen] 175.209999ms
+2015-05-09 00:59:35.947 Dragonasi[9098:785997] [CDVTimer][TotalPluginStartup] 175.411999ms
+2015-05-09 00:59:36.084 Dragonasi[9098:785997] Resetting plugins due to page load.
+2015-05-09 00:59:36.299 Dragonasi[9098:785997] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/25BB688F-EB51-4FAE-A5DB-C380371D3539/Dragonasi.app/www/index.html
+2015-05-09 00:59:36.432 Dragonasi[9098:785997] Disconnected - status 3
+2015-05-09 00:59:39.756 Dragonasi[9098:785997] Sent: {"command": "setGroup", "group": 1}
+2015-05-09 00:59:40.893 Dragonasi[9098:785997] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 00:59:42.395 Dragonasi[9098:785997] Sent: {"command": "setGroup", "group": 1}
+2015-05-09 01:00:42.080 Dragonasi[9183:787096] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/A30827A9-C95F-48A4-809D-D7E6D25CBDF6/Library/Cookies/Cookies.binarycookies
+2015-05-09 01:00:42.179 Dragonasi[9183:787096] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 01:00:42.179 Dragonasi[9183:787096] Multi-tasking -> Device: YES, App: YES
+2015-05-09 01:00:42.181 Dragonasi[9183:787096] Unlimited access to network resources
+2015-05-09 01:00:42.185 Dragonasi[9183:787096] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 01:00:42.319 Dragonasi[9183:787096] [CDVTimer][splashscreen] 16.874015ms
+2015-05-09 01:00:42.319 Dragonasi[9183:787096] [CDVTimer][TotalPluginStartup] 17.144024ms
+2015-05-09 01:00:42.385 Dragonasi[9183:787096] Resetting plugins due to page load.
+2015-05-09 01:00:42.504 Dragonasi[9183:787096] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/259D1E74-1AA8-4C9B-AD6B-DCE0334BA16C/Dragonasi.app/www/index.html
+2015-05-09 01:00:42.749 Dragonasi[9183:787096] Sent: {"command": "connect"}
+2015-05-09 01:00:48.726 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 01:00:48.858 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:50.664 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 3}
+2015-05-09 01:00:50.787 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:50.929 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:52.255 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 5}
+2015-05-09 01:00:52.374 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:52.492 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:53.464 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 01:00:53.585 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:53.699 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:54.769 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 1}
+2015-05-09 01:00:54.891 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:55.007 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:59.706 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 01:00:59.829 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:00:59.950 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:01:02.931 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:01:16.288 Dragonasi[9183:787096] Sent: {"command": "ready"}
+2015-05-09 01:01:16.409 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:01:17.454 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:01:20.123 Dragonasi[9183:787096] Failed to load webpage with error: The URL can’t be shown
+2015-05-09 01:01:20.138 Dragonasi[9183:787096] Sent: {"command": "answer", "answer": 10}
+2015-05-09 01:01:21.655 Dragonasi[9183:787096] Failed to load webpage with error: The URL can’t be shown
+2015-05-09 01:01:26.063 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:01:46.437 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 4}
+2015-05-09 01:01:46.576 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:01:46.693 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:06.781 Dragonasi[9183:787096] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 01:02:06.901 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:07.018 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:08.333 Dragonasi[9183:787096] Sent: {"command": "ready"}
+2015-05-09 01:02:08.454 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:09.470 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:19.218 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:19.348 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:21.075 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:21.194 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:22.356 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:02:23.413 Dragonasi[9183:787096] Received: [object MessageEvent]
+2015-05-09 01:25:26.588 Dragonasi[9183:787096] Disconnected - status 3
+2015-05-09 14:01:19.949 Dragonasi[9657:839965] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/7CA3F3F2-04BA-4B78-92E8-E43EC4F0DD9F/Library/Cookies/Cookies.binarycookies
+2015-05-09 14:01:20.060 Dragonasi[9657:839965] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 14:01:20.060 Dragonasi[9657:839965] Multi-tasking -> Device: YES, App: YES
+2015-05-09 14:01:20.062 Dragonasi[9657:839965] Unlimited access to network resources
+2015-05-09 14:01:20.066 Dragonasi[9657:839965] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 14:01:20.226 Dragonasi[9657:839965] [CDVTimer][splashscreen] 75.408995ms
+2015-05-09 14:01:20.226 Dragonasi[9657:839965] [CDVTimer][TotalPluginStartup] 75.645983ms
+2015-05-09 14:01:20.346 Dragonasi[9657:839965] Resetting plugins due to page load.
+2015-05-09 14:01:20.483 Dragonasi[9657:839965] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/FBC4B2CE-B4C3-4125-A288-BAEE35B6EDAD/Dragonasi.app/www/index.html
+2015-05-09 14:01:20.874 Dragonasi[9657:839965] Sent: {"command": "connect"}
+2015-05-09 14:01:21.018 Dragonasi[9657:839965] Received: [object MessageEvent]
+2015-05-09 14:01:29.591 Dragonasi[9657:839965] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 14:01:29.738 Dragonasi[9657:839965] Received: [object MessageEvent]
+2015-05-09 14:03:06.698 Dragonasi[9744:842663] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/F65BF57E-15D0-4E8A-B07B-667DEBADADAA/Library/Cookies/Cookies.binarycookies
+2015-05-09 14:03:06.822 Dragonasi[9744:842663] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 14:03:06.823 Dragonasi[9744:842663] Multi-tasking -> Device: YES, App: YES
+2015-05-09 14:03:06.829 Dragonasi[9744:842663] Unlimited access to network resources
+2015-05-09 14:03:06.832 Dragonasi[9744:842663] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 14:03:06.994 Dragonasi[9744:842663] [CDVTimer][splashscreen] 17.915964ms
+2015-05-09 14:03:06.994 Dragonasi[9744:842663] [CDVTimer][TotalPluginStartup] 18.091023ms
+2015-05-09 14:03:07.049 Dragonasi[9744:842663] Resetting plugins due to page load.
+2015-05-09 14:03:07.191 Dragonasi[9744:842663] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/45206C6E-70D1-49D7-8FBC-5598ABA29CAD/Dragonasi.app/www/index.html
+2015-05-09 14:03:07.449 Dragonasi[9744:842663] Sent: {"command": "connect"}
+2015-05-09 14:03:07.592 Dragonasi[9744:842663] Received: [object MessageEvent]
+2015-05-09 14:04:09.750 Dragonasi[9819:844016] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/EE57780B-7182-4804-B888-C734920CB3E3/Library/Cookies/Cookies.binarycookies
+2015-05-09 14:04:09.866 Dragonasi[9819:844016] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 14:04:09.867 Dragonasi[9819:844016] Multi-tasking -> Device: YES, App: YES
+2015-05-09 14:04:09.870 Dragonasi[9819:844016] Unlimited access to network resources
+2015-05-09 14:04:09.875 Dragonasi[9819:844016] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 14:04:09.997 Dragonasi[9819:844016] [CDVTimer][splashscreen] 18.474042ms
+2015-05-09 14:04:09.997 Dragonasi[9819:844016] [CDVTimer][TotalPluginStartup] 18.746972ms
+2015-05-09 14:04:10.059 Dragonasi[9819:844016] Resetting plugins due to page load.
+2015-05-09 14:04:10.190 Dragonasi[9819:844016] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/E1B47056-F9E8-401D-94F9-662549827942/Dragonasi.app/www/index.html
+2015-05-09 14:04:10.508 Dragonasi[9819:844016] Sent: {"command": "connect"}
+2015-05-09 14:04:10.669 Dragonasi[9819:844016] Received: [object MessageEvent]
+2015-05-09 14:04:12.338 Dragonasi[9819:844016] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 14:04:12.604 Dragonasi[9819:844016] Received: [object MessageEvent]
+2015-05-09 14:04:13.611 Dragonasi[9819:844016] Sent: {"command": "ready"}
+2015-05-09 14:04:13.775 Dragonasi[9819:844016] Received: [object MessageEvent]
+2015-05-09 14:04:14.859 Dragonasi[9819:844016] Received: [object MessageEvent]
+2015-05-09 14:04:50.000 Dragonasi[9889:844548] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/9A341220-FD0A-473C-AA95-799D74EBEFEE/Library/Cookies/Cookies.binarycookies
+2015-05-09 14:04:50.118 Dragonasi[9889:844548] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 14:04:50.119 Dragonasi[9889:844548] Multi-tasking -> Device: YES, App: YES
+2015-05-09 14:04:50.123 Dragonasi[9889:844548] Unlimited access to network resources
+2015-05-09 14:04:50.127 Dragonasi[9889:844548] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 14:04:50.248 Dragonasi[9889:844548] [CDVTimer][splashscreen] 17.350018ms
+2015-05-09 14:04:50.248 Dragonasi[9889:844548] [CDVTimer][TotalPluginStartup] 17.526031ms
+2015-05-09 14:04:50.309 Dragonasi[9889:844548] Resetting plugins due to page load.
+2015-05-09 14:04:50.461 Dragonasi[9889:844548] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/837B1C3E-705D-4342-8D42-602C62DEC58D/Dragonasi.app/www/index.html
+2015-05-09 14:04:50.742 Dragonasi[9889:844548] Sent: {"command": "connect"}
+2015-05-09 14:04:50.904 Dragonasi[9889:844548] Received: [object MessageEvent]
+2015-05-09 14:04:58.937 Dragonasi[9889:844548] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 14:04:59.101 Dragonasi[9889:844548] Received: [object MessageEvent]
+2015-05-09 14:05:00.344 Dragonasi[9889:844548] Sent: {"command": "ready"}
+2015-05-09 14:05:00.508 Dragonasi[9889:844548] Received: [object MessageEvent]
+2015-05-09 14:05:01.554 Dragonasi[9889:844548] Received: [object MessageEvent]
+2015-05-09 14:05:33.284 Dragonasi[9959:845127] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/FD8CD918-BAEA-4735-90B7-2C3EABE3E9A0/Library/Cookies/Cookies.binarycookies
+2015-05-09 14:05:33.401 Dragonasi[9959:845127] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 14:05:33.401 Dragonasi[9959:845127] Multi-tasking -> Device: YES, App: YES
+2015-05-09 14:05:33.405 Dragonasi[9959:845127] Unlimited access to network resources
+2015-05-09 14:05:33.408 Dragonasi[9959:845127] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 14:05:33.530 Dragonasi[9959:845127] [CDVTimer][splashscreen] 16.409993ms
+2015-05-09 14:05:33.530 Dragonasi[9959:845127] [CDVTimer][TotalPluginStartup] 16.584992ms
+2015-05-09 14:05:33.597 Dragonasi[9959:845127] Resetting plugins due to page load.
+2015-05-09 14:05:33.709 Dragonasi[9959:845127] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/6C5B6CE8-EE51-4B53-89F4-B38819AC29E5/Dragonasi.app/www/index.html
+2015-05-09 14:05:34.031 Dragonasi[9959:845127] Sent: {"command": "connect"}
+2015-05-09 14:05:34.193 Dragonasi[9959:845127] Received: [object MessageEvent]
+2015-05-09 14:05:36.495 Dragonasi[9959:845127] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 14:05:36.674 Dragonasi[9959:845127] Received: [object MessageEvent]
+2015-05-09 14:05:37.616 Dragonasi[9959:845127] Sent: {"command": "ready"}
+2015-05-09 14:05:37.800 Dragonasi[9959:845127] Received: [object MessageEvent]
+2015-05-09 14:05:38.827 Dragonasi[9959:845127] Received: [object MessageEvent]
+2015-05-09 14:06:43.226 Dragonasi[10032:846274] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/18E4E5D7-F72B-4BA0-8675-4FBD5747A2AF/Library/Cookies/Cookies.binarycookies
+2015-05-09 14:06:43.330 Dragonasi[10032:846274] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 14:06:43.331 Dragonasi[10032:846274] Multi-tasking -> Device: YES, App: YES
+2015-05-09 14:06:43.333 Dragonasi[10032:846274] Unlimited access to network resources
+2015-05-09 14:06:43.338 Dragonasi[10032:846274] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 14:06:43.466 Dragonasi[10032:846274] [CDVTimer][splashscreen] 19.088030ms
+2015-05-09 14:06:43.466 Dragonasi[10032:846274] [CDVTimer][TotalPluginStartup] 19.271016ms
+2015-05-09 14:06:43.531 Dragonasi[10032:846274] Resetting plugins due to page load.
+2015-05-09 14:06:43.653 Dragonasi[10032:846274] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/02B566FE-1CC6-40F9-A4A5-2388F875002E/Dragonasi.app/www/index.html
+2015-05-09 14:06:43.972 Dragonasi[10032:846274] Sent: {"command": "connect"}
+2015-05-09 14:06:44.135 Dragonasi[10032:846274] Received: [object MessageEvent]
+2015-05-09 14:06:46.595 Dragonasi[10032:846274] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 14:06:46.760 Dragonasi[10032:846274] Received: [object MessageEvent]
+2015-05-09 14:06:47.871 Dragonasi[10032:846274] Sent: {"command": "ready"}
+2015-05-09 14:07:01.311 Dragonasi[10032:846274] Received: [object MessageEvent]
+2015-05-09 14:07:02.072 Dragonasi[10032:846274] Received: [object MessageEvent]
+2015-05-09 14:07:03.102 Dragonasi[10032:846274] Received: [object MessageEvent]
+2015-05-09 14:07:10.504 Dragonasi[10032:846274] Sent: {"command": "answer", "answer": 9}
+2015-05-09 14:07:12.729 Dragonasi[10032:846274] Received: [object MessageEvent]
+2015-05-09 14:08:04.318 Dragonasi[10032:846274] Received: [object MessageEvent]
+2015-05-09 14:08:13.814 Dragonasi[10108:847724] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Data/Application/0A726F68-5FD9-4162-ADA7-6E220780E5E0/Library/Cookies/Cookies.binarycookies
+2015-05-09 14:08:13.929 Dragonasi[10108:847724] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-09 14:08:13.930 Dragonasi[10108:847724] Multi-tasking -> Device: YES, App: YES
+2015-05-09 14:08:13.934 Dragonasi[10108:847724] Unlimited access to network resources
+2015-05-09 14:08:13.936 Dragonasi[10108:847724] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-09 14:08:14.058 Dragonasi[10108:847724] [CDVTimer][splashscreen] 17.575026ms
+2015-05-09 14:08:14.058 Dragonasi[10108:847724] [CDVTimer][TotalPluginStartup] 17.785013ms
+2015-05-09 14:08:14.130 Dragonasi[10108:847724] Resetting plugins due to page load.
+2015-05-09 14:08:14.247 Dragonasi[10108:847724] Finished load of: file:///Users/bogdan/Library/Developer/CoreSimulator/Devices/0856AFD0-20A8-4CFA-B126-BF018D62512E/data/Containers/Bundle/Application/BF2BA3D5-CC93-4057-B490-AD63CB69DD2B/Dragonasi.app/www/index.html
+2015-05-09 14:08:14.566 Dragonasi[10108:847724] Sent: {"command": "connect"}
+2015-05-09 14:08:14.727 Dragonasi[10108:847724] Received: [object MessageEvent]
+2015-05-09 14:08:16.899 Dragonasi[10108:847724] Sent: {"command": "setGroup", "group": 2}
+2015-05-09 14:08:17.065 Dragonasi[10108:847724] Received: [object MessageEvent]
+2015-05-09 14:08:18.252 Dragonasi[10108:847724] Sent: {"command": "ready"}
+2015-05-09 14:08:29.230 Dragonasi[10108:847724] Received: [object MessageEvent]
+2015-05-09 14:08:30.325 Dragonasi[10108:847724] Received: [object MessageEvent]
+2015-05-09 14:08:31.387 Dragonasi[10108:847724] Received: [object MessageEvent]
+2015-05-09 14:09:53.551 Dragonasi[10108:847724] Sent: {"command": "answer", "answer": 13}
+2015-05-09 14:09:55.750 Dragonasi[10108:847724] Received: [object MessageEvent]
+2015-05-09 14:12:44.787 Dragonasi[10108:847724] Disconnected - status 3
