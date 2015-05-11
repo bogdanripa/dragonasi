@@ -27,8 +27,8 @@ window.ws.init = function(scope, cb) {
 				case 'allPlayersReady':
 					window.ws.scope.$broadcast('allPlayersReady', oMsg.group);
 					break;
-				case 'question':
-					window.ws.scope.$broadcast('question', oMsg);
+				default:
+					window.ws.scope.$broadcast(oMsg.command, oMsg);
 					break;
 			}
 

@@ -20,6 +20,7 @@
 					this.title = q.question;
 					this.answers = q.answers;
 					this.selectedAnswer = null;
+					this.correct = q.correct;
 					$scope.$apply();
 				};
 
@@ -31,6 +32,17 @@
 
 					this.selectedAnswer = answer;
 					window.ws.send('{"command": "answer", "answer": ' + this.selectedAnswer + '}');
+					if (this.correct == this.selectedAnswer) {
+						document.getElementsByClassName('ok')[0].className = 'ok';
+						setTimeout(function() {
+							document.getElementsByClassName('ok')[0].className = 'ok growAndFadeOut';
+						}, 0);
+					} else {
+						document.getElementsByClassName('not-ok')[0].className = 'not-ok';
+						setTimeout(function() {
+							document.getElementsByClassName('not-ok')[0].className = 'not-ok growAndFadeOut';
+						}, 0);
+					}
 				};
 
 				this.isSelected = function(answer) {
@@ -45,7 +57,8 @@
 		        });
 
 				$rootScope.$on('question', function (event, q) {
-		             //do stuff
+		             // animate base on prev question
+		             //$('.ok'). className = 'ok growAndFadeOut';
 		             that.ask(q);
 		        });
 

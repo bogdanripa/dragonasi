@@ -111,8 +111,8 @@ li.connected {
 
 .restart {
   position: absolute;
-  top: 0;
-  right: 0;
+  bottom: 10px;
+  right: 10px;
 }
 
 .restart button {
@@ -129,16 +129,28 @@ li.connected {
   -o-transition:0.5s linear all;
   transition:0.5s linear all;
 
+  margin-top: -800px !important;
   opacity: 0 !important;
-  font-size: 1000px;
+  font-size: 1000px !important;
+
   visibility: hidden;
+}
+
+.growAndFadeOut.ok {
+  margin-left: -500px !important;
+}
+
+.growAndFadeOut.not-ok {
+  margin-left: -400px !important;
 }
 
 .ok, .not-ok {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-50%);
+    font-size: 20px;
+    margin-left: -10px;
+    margin-top: -10px;
     opacity: 0.5;
 }
 
