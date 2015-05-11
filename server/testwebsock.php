@@ -8,20 +8,17 @@ class echoServer extends WebSocketServer {
   
   protected function process ($user, $message) {
     $message = json_decode($message);
-    $resp = '';
-echo "Users: " . count($this->users) . "\n"; 
     switch($message->command) {
       case 'connect' :{
-        $resp = '';
 	foreach($this->users as $auser) {
-	  if ($auser->group) {
+	  if (@$auser->group) {
 	    $this->send($user, '{"command": "connected", "group": ' . $auser->group . '}');
 	  }
 	}
         break;
       }
       case 'setGroup': {
-        $oldGroup = $user->group;
+        $oldGroup = @$user->group;
 	$user->group = $message->group;
 	foreach($this->users as $auser) {
 	  if ($oldGroup) {
@@ -43,14 +40,11 @@ echo "Users: " . count($this->users) . "\n";
 	}
         break;
     }
-    if ($resp) {
-      $this->send($user,$resp);
-    }
   }
 
   protected function checkPlay() {
     foreach($this->users as $auser) {
-      if (!$auser->playerReady) {
+      if (!@$auser->playerReady) {
         return false;
       }
     }
@@ -69,6 +63,7 @@ echo "Users: " . count($this->users) . "\n";
   }
 
   protected function nextQuestion() {
+    echo "Next!\n";
     $a = rand(1,9);
     $b = rand(1,9);
     $q = "$a + $b";
@@ -116,9 +111,11 @@ echo "Users: " . count($this->users) . "\n";
     // open files or other objects associated with them.  This runs after the socket 
     // has been closed, so there is no need to clean up the socket itself here.
     echo "closed\n";
+        $allLeft = true;
 	foreach($this->users as $auser) {
 	  if ($user != $auser && $user->group) {
 	    $this->send($auser, '{"command": "disconnected", "group": ' . $user->group . '}');
+	    $allLeft = false;
 	  }
 	}
   }
