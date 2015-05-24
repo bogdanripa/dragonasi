@@ -9,6 +9,7 @@
  -->        <link rel="stylesheet" type="text/css" href="css/index.css" />
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
+        <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="ws.js"></script>
         <title>Dragonasi</title>
@@ -19,8 +20,16 @@
         <script type="text/javascript" src="player-selection.js"></script>
         <script type="text/javascript" src="waiting-players.js"></script>
         <script type="text/javascript" src="play.js"></script>
+        <script type="text/javascript" src="connecting.js"></script>
+
+        <connecting ng-show="$root.step === 0"></connecting>
         <player-selection ng-show="$root.step === 1"></player-selection>
         <waiting-players  ng-show="$root.step === 2"></waiting-players>
         <play  ng-show="$root.step === 3"></play>
+
+    <div class="restart">
+        <button ng-click="$root.$broadcast('restart');">Restart</button>
+    </div>
+
     </body>
 </html>

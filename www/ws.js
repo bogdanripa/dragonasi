@@ -1,14 +1,21 @@
 window.ws = {};
 
 window.ws.init = function(scope, cb) {
-	window.ws.scope = scope;
+	if (scope) {
+		window.ws.scope = scope;
+	}
+	if (cb) {
+		window.ws.cb = cb;
+	}
+	window.ws.closing = false;
+
 	var host = "ws://snoop.photos:9000/echobot"; // SET THIS TO YOUR SERVER
 	try {
 		window.ws.socket = new WebSocket(host);
-		//console.log('WebSocket - status '+window.ws.socket.readyState);
+		console.log('WebSocket - status '+window.ws.socket.readyState);
 		window.ws.socket.onopen    = function(msg) { 
 							   //console.log("Welcome - status "+this.readyState);
-							   cb();
+							   window.ws.cb();
 						   };
 		window.ws.socket.onmessage = function(msg) {
 			try {
@@ -32,14 +39,18 @@ window.ws.init = function(scope, cb) {
 					break;
 			}
 
-		   console.log("Received: "+msg); 
+		   console.log("Received: "+msg.data); 
 	   };
 		window.ws.socket.onclose   = function(msg) { 
-							   console.log("Disconnected - status "+this.readyState); 
-						   };
+			 console.log("Disconnected - status " + this.readyState); 
+			 if (!window.ws.closing) {
+				 window.ws.scope.$broadcast('restart');
+			}
+		};
 	}
 	catch(ex){ 
-		console.log(ex); 
+		console.log(ex);
+		setTimeout(window.ws.init, 1000);
 	}
 
 }
@@ -59,8 +70,9 @@ window.ws.send = function(msg){
 
 window.ws.quit = function(){	
 	if (window.ws.socket != null) {
+		window.ws.closing = true;
 		console.log("Goodbye!");
-		websocket.onclose = function () {};
+		window.ws.send('{"command": "disconnect"}');
 		window.ws.socket.close();
 		window.ws.socket=null;
 	}
@@ -72,6 +84,5 @@ window.ws.reconnect = function() {
 }
 
 window.onbeforeunload = function() {
-	alert(1);
-	window.ws.quit;
+	window.ws.quit();
 }

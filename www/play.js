@@ -10,10 +10,6 @@
 				this.title = "Pe locuri... Fiți gata...";
 				this.answers = [];
 
-				this.back = function() {
-					$rootScope.step = 1;
-				};
-
 				this.ask = function(q) {
 					this.lastAnswer = Date.now()-10000;
 
@@ -22,6 +18,8 @@
 					this.selectedAnswer = null;
 					this.correct = q.correct;
 					$scope.$apply();
+
+					$('ul li').textfill(40);
 				};
 
 				this.select = function(answer) {
@@ -31,7 +29,7 @@
 					this.lastAnswer = Date.now();
 
 					this.selectedAnswer = answer;
-					window.ws.send('{"command": "answer", "answer": ' + this.selectedAnswer + '}');
+					window.ws.send('{"command": "answer", "answer": "' + this.selectedAnswer.replace('"', '\\"') + '"}');
 					if (this.correct == this.selectedAnswer) {
 						document.getElementsByClassName('ok')[0].className = 'ok';
 						setTimeout(function() {
@@ -50,11 +48,6 @@
 				};
 
 				var that = this;
-
-				$rootScope.$on('restart', function () {
-		             //do stuff
-		             that.back();
-		        });
 
 				$rootScope.$on('question', function (event, q) {
 		             // animate base on prev question

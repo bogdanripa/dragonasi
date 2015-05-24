@@ -2,13 +2,9 @@
     <h1>{{play.title}}</h1>
     <ul>
         <li ng-repeat="answer in play.answers" ng-class="{ active: play.isSelected(answer)}" ng-click="play.select(answer)">
-            {{answer}}
+            <span>{{answer}}</span>
         </li>
     </ul>
-    <div class="break"></div>
-    <div class="restart">
-        <button ng-click="play.back()">Restart</button>
-    </div>
     <div class="ok hidden">✓</div>
     <div class="not-ok hidden">✗</div>
 </div>
