@@ -1,0 +1,6 @@
+[13-May-2015 09:54:13 UTC] PHP Notice:  Undefined property: WebSocketUser::$group in /home/ec2-user/dragonasi/server/testwebsock.php on line 116
+[13-May-2015 11:59:14 UTC] PHP Notice:  Undefined property: WebSocketUser::$group in /home/ec2-user/dragonasi/server/testwebsock.php on line 111
+[13-May-2015 12:04:24 UTC] PHP Notice:  Undefined property: WebSocketUser::$group in /home/ec2-user/dragonasi/server/testwebsock.php on line 111
+[13-May-2015 12:07:23 UTC] PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /home/ec2-user/dragonasi/server/websockets.php on line 22
+[14-May-2015 05:42:00 UTC] PHP Notice:  Undefined property: WebSocketUser::$group in /home/ec2-user/dragonasi/server/testwebsock.php on line 114
+[14-May-2015 06:28:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ec2-user/dragonasi/server/testwebsock.php on line 131
