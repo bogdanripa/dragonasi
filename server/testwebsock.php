@@ -40,9 +40,15 @@ echo "Restart\n";
     echo ($message . "\n");
     $message = json_decode($message);
     switch($message->command) {
+      case 'restart':
+        $this->restart();
+        break;
       case 'robot':
         $this->robot = $user;
 	$user->robot = true;
+      case 'ready':
+        $user->playerReady = true;
+	$this->checkPlay();
         break;
       case 'moved':
         $this->nextQuestion();
@@ -86,10 +92,6 @@ echo "Restart\n";
 	  }
 	}
         break;
-      case 'ready':
-        $user->playerReady = true;
-	$this->checkPlay();
-        break;
       case 'answer':
         if ($message->answer == $this->answer) {
 	  $user->score++;
@@ -127,6 +129,7 @@ echo "distFromCenter: $distFromCenter\n";
 print_r($this->robotLocation);
 
 	  $this->step[$i] += $this->minStep;
+          $alpha = intval($alpha);
 
 	  if (@$this->robot) {
             $this->send($this->robot, '{"command": "rotate", "angle": ' . $alpha . '}');
@@ -157,10 +160,12 @@ print_r($this->robotLocation);
 
   protected function checkPlay() {
     foreach($this->users as $auser) {
-      if (!@$auser->robot && !@$auser->playerReady) {
+      if (!@$auser->playerReady) {
         return false;
       }
     }
+    if (!@$this->robot) return false;
+
 	foreach($this->users as $auser) {
 	  if (!@$auser->robot) {
 	    $this->send($auser, '{"command": "allPlayersReady"}');
